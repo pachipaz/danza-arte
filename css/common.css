@@ -1,0 +1,19 @@
+nav {
+	height: 15%;
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	z-index: 2;
+	top:0;
+}
+.titulo {
+	font-weight: bolder;
+}
+li {
+	list-style: none; 
+	display: inline-block;
+	padding-right: 30px;
+}
+ul {
+	text-align: center;
+}

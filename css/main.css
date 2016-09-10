@@ -1,0 +1,105 @@
+.fondo {
+	background-image: url("../img/dance_1.jpg");
+	height: 500px;
+	margin-top: 7%;
+}
+.studio {
+	color:#c3c6c5;
+}
+.inscribete {
+	height: 50px;
+	width: 150px;
+	background-color:#040E1E;
+	border-color:#040E1E;
+	border-radius: 5px;
+	box-shadow: none;
+}
+h1 {
+	font-size: 35px;
+}
+p {
+	font-size: 13px;
+}
+.textura {
+	background-image: url("../img/textura_2.jpg");
+	height: 370px;
+}
+.ornamento {
+	width: 120px;
+	height: 140px;
+	position: absolute;
+	top:100px;
+	left:530px; 
+}
+.trayectoria {
+	font-size: 25px;
+	color:grey;
+	padding: 6%;
+}
+.boton2 {
+	display:block;
+	height: 57px;
+	width: 284px;
+	background-color:#1A2952;
+	border-color:#1A2952;
+	border-radius: 5px;
+	box-shadow: none;
+	color: white;
+	position: absolute;
+	left:466px;
+	top:235px;
+}
+.foto1 {
+	height: 300px;
+	max-width: 100%;
+}
+.fotomujer {
+	height: 300px;
+	max-width: 100%;
+}
+.boton3 {
+	display: block;
+	width: 502px;
+	height: 73px;
+	background-color:#1A2952;
+	border-color:#1A2952;
+	border-radius: 5px;
+	box-shadow: none;
+	color: white;
+	position: absolute;
+	left: 376px;
+	top: 1186px;
+}
+.textura2 {
+	background-image: url("../img/textura_2.jpg");
+	height: 300px;
+}
+.ladanza {
+	font-size: 25px;
+	color:grey;
+	padding: 6%;
+	text-align: center;
+}
+.mapa {
+	background-color: #1A2952;
+	height: 400px;
+}
+.textorelleno {
+	margin-top: 60px;
+	color: white;
+}
+h1 {
+	color:white;
+}
+.textosmall{
+	color: white;
+} 
+.calles {
+	width: 457px;
+	height: 263px;
+	max-width: 100%;
+	display: inline-block;
+	position: absolute;
+	top:60px;
+	left: 140px;
+}
