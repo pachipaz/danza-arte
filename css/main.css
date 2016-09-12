@@ -49,13 +49,20 @@ p {
 	left:466px;
 	top:235px;
 }
+
 .foto1 {
+	background-image: url("../img/instructor_4.jpg");
 	height: 300px;
 	max-width: 100%;
+	background-size: cover;
+	border: 1px solid #1A2952 ;
 }
 .fotomujer {
+	background-image:url("../img/profesor_9.jpg");
 	height: 300px;
 	max-width: 100%;
+	background-size: cover;
+	border: 1px solid #1A2952 ;
 }
 .boton3 {
 	display: block;
@@ -102,4 +109,71 @@ h1 {
 	position: absolute;
 	top:60px;
 	left: 140px;
+}
+/*FORMULARIO DE CONTACTO*/
+.contactanos {
+	background-image: url("../img/shoes_!.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+}
+.contacto { 
+	color:#1A2952;
+	font-size: 40px;
+	position: absolute;
+    top:70px;
+} 
+
+.nombre{
+	width: 479px;
+	height: 44px;
+	border: 2px solid #ededed;
+	position: absolute;
+	top:137px;
+	color:#ededed;
+	padding: 10px;
+}
+.mail{
+	width: 479px;
+	height: 44px;
+	border: 2px solid #ededed;
+	position: absolute;
+	top:186px;
+	color:#ededed;
+	padding: 10px;
+}
+.mensaje{
+	width: 479px;
+	height: 115px;
+	border: 2px solid #ededed;
+	position: absolute;
+	top:236px;
+	color:#ededed;
+	padding: 10px;
+}
+.enviar {
+	display: block;
+	width: 477px;
+	height: 56px;
+	background-color:#1A2952;
+	border-color:#1A2952;
+	border-radius: 5px;
+	box-shadow: none;
+	color: white;
+	position: absolute;
+	top:366px;
+}
+footer {
+	width: 1254px;
+	height:50px;
+	background-color: #1A2952;
+	color:#ededed;
+}
+.futer {
+	color:#7d8cb0;
+	position: absolute;
+	top:20px;
+	left:-22px;
+
 }

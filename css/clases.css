@@ -1,1 +1,336 @@
-/* Inserta tu codigo aqui */
+.base {
+	background-color: #f4f4f4;
+	height: 993px;
+}
+.oferta {
+	margin-top: 150px;
+	position: absolute;
+	left:500px;
+	font-size: 16px;
+	font-weight: bolder;
+}
+.transparencia {
+	width: 277px;
+	height: 113px;
+	background-color: black;
+	opacity: 0.5;
+	margin-top: 130px;
+}
+.foto {
+	width: 304px;
+	height: 369px;
+	margin-top: 179px;
+	margin-left: 10px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.ballet , .moderm, .jazzi {
+	margin-top: -85px;
+	font-size: 10px;
+}
+.clasica {
+	background-image: url("../img/dance_12.jpg");
+	margin-left: 134px;
+}
+.urban {
+	background-image: url("../img/breakdance.jpg");
+}
+.jazz {
+	background-image: url("../img/lirical-jazz.jpg");
+}
+.foto2 {
+	width: 304px;
+	height: 369px;
+	margin-top: 10px;
+	margin-left: 5px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 2%;
+}
+.transparencia2 {
+	width: 277px;
+	height: 113px;
+	background-color: black;
+	opacity: 0.5;
+	margin-top: 130px;
+}
+.arabic , .peque, .yogadance {
+	margin-top: -85px;
+	font-size: 10px;
+}
+.arabe{
+	background-image: url("../img/arabe.jpg");
+	margin-left: 133px;
+
+}
+.nina {
+	background-image: url("../img/little.jpg");
+	margin-left: -12px;
+}
+.yoga {
+	background-image: url("../img/yoga.jpg");
+	margin-left: -12px;
+}
+/*FORMULARIO DE CONTACTO*/
+.profesor {
+	background-image: url("../img/dance_7.jpg");
+	height: 500px;
+	margin-top: 7%;
+    max-width: 100%;
+}
+.sobrenosotros {
+	width: 504px;
+	height: 193px;
+	background-color: black;
+	opacity: .5;
+	position: absolute;
+	left:378px;
+	top:104px;
+	padding: 29px;
+}
+.sobrenosotros, p {
+	color: white;
+	font-size: 20px;
+
+
+}
+.descripcion, p {
+	font-size: 13px;
+	width: 417px;
+	position: absolute;
+	left:422px;
+	top:187px;
+}
+.pilares {
+	background-image: url("../img/cubes.png");
+	height: 336px;
+}
+.pilar1 {
+	color:grey;
+	font-size: 20px;
+	position: absolute;
+	top:94px;
+	left: 271px;
+}
+.linea1 {
+	width: 220px;
+	height: 1px;
+	background-color: grey;
+	position: absolute;
+	left: 187px;
+	top:138px;
+
+}
+.linea2 {
+	width: 220px;
+	height: 1px;
+	background-color: grey;
+	position: absolute;
+	left: 109px;
+	top:138px;
+}
+.linea3 {
+	width: 220px;
+	height: 1px;
+	background-color: grey;
+	position: absolute;
+	left: 32px;
+	top:138px;
+
+}
+
+.textopilares1, p {
+	color:grey;
+	font-size: 12px;
+	width: 223px;
+	height: 53px;
+	position: absolute;
+	left: 187px;
+	top:163px;
+}
+.textopilares2, p {
+	color:grey;
+	font-size: 12px;
+	width: 223px;
+	height: 53px;
+	position: absolute;
+	left: 105px;
+	top:163px;
+}
+.pilar2 {
+	color:grey;
+	font-size: 20px;
+	position: absolute;
+	top:94px;
+	left: 200px;
+
+}
+
+.pilar3 {
+	color:grey;
+	font-size: 20px;
+	position: absolute;
+	top:94px;
+	left: 115px;
+}
+.textopilares3, p {
+	color:grey;
+	font-size: 12px;
+	width: 223px;
+	height: 53px;
+	position: absolute;
+	left: 30px;
+	top:163px;
+}
+
+/*profesores*/
+.instructores {
+	margin-top: 96px;
+	margin-bottom: 76px;
+}
+
+.profe1 {
+	background-image: url("../img/profesor_4.jpg");
+	height: 176px;
+	background-size: cover;
+	margin-bottom: 171px;
+	display: inline-block;
+	
+
+}
+.profe2 {
+	background-image: url("../img/profesor_14.jpg");
+	height: 176px;
+	background-size: cover;
+	margin-bottom:171px;
+}
+.profe3 {
+	background-image: url("../img/profesor_1.jpg");
+	height: 176px;
+	background-size: cover;
+	margin-bottom: 171px;
+}
+.profe4 {
+	background-image: url("../img/profesor_10.jpg");
+	height: 176px;
+	background-size: cover;
+	margin-bottom: 171px;
+}
+.nombreprofe{
+	color: black;
+	margin-top:21px;
+	font-size: 13px;
+	font-weight: bolder;
+}
+.textonombre {
+	color: black;
+	margin-top: 40px;
+}
+.profe5 {
+	background-image: url("../img/profesor_11.jpg");
+	height: 176px;
+	background-size: cover;
+	display: inline-block;
+	margin-bottom: 104px;
+}
+
+.profe6 {
+	background-image: url("../img/profesor_12.jpg");
+	height: 176px;
+	background-size: cover;
+	display: block;
+}
+.profe7 {
+	background-image: url("../img/profesor_9.jpg");
+	height: 176px;
+	background-size: cover;
+	display: block;
+}
+.profe8 {
+	background-image: url("../img/profesor_15.jpg");
+	height: 176px;
+	background-size: cover;
+	display: block;
+}
+/*INSPIRACION*/
+.inspiracion {
+	background-image: url("../img/cubes.png");
+	height: 336px;
+}
+.frase  {
+	font-size: 20px;
+	width: 900px;
+	font-weight: bolder;
+	margin-left: 167px;
+}
+/*FORMULARIO DE CONTACTO*/
+.contactanos {
+	background-image: url("../img/shoes_!.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+}
+.contacto { 
+	color:#1A2952;
+	font-size: 40px;
+	position: absolute;
+    top:70px;
+} 
+
+.nombre{
+	width: 479px;
+	height: 44px;
+	border: 2px solid #ededed;
+	position: absolute;
+	top:137px;
+	color:#ededed;
+	padding: 10px;
+}
+.mail{
+	width: 479px;
+	height: 44px;
+	border: 2px solid #ededed;
+	position: absolute;
+	top:186px;
+	color:#ededed;
+	padding: 10px;
+}
+.mensaje{
+	width: 479px;
+	height: 115px;
+	border: 2px solid #ededed;
+	position: absolute;
+	top:236px;
+	color:#ededed;
+	padding: 10px;
+}
+.enviar {
+	display: block;
+	width: 477px;
+	height: 56px;
+	background-color:#1A2952;
+	border-color:#1A2952;
+	border-radius: 5px;
+	box-shadow: none;
+	color: white;
+	position: absolute;
+	top:366px;
+	left:30px;
+}
+footer {
+	max-width: 100%;
+	height:50px;
+	background-color: #1A2952;
+	color:#ededed;
+}
+/*FOOTER*/
+
+.futer {
+	color:#7d8cb0;
+	position: absolute;
+	top:20px;
+	left:-22px;
+	width: 269px;
+
+}
